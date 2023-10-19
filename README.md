@@ -3,3 +3,13 @@ Q. Guo, L. Fang, R. Wang, and C. Zhang, [Multivariate Time Series Forecasting Us
 
 # Framework
 ![architecture](./framwork.png)
+
+# Requirements
+tensorflow-gpu==1.12,
+cudatoolkit==9.0,
+cudnn==7.3.1,
+numpy==1.19.5,
+pandas,
+matplotlib,
+scikit_learn,
+tensorboard
